@@ -1,0 +1,58 @@
+body{
+    background-color: pink;
+    color: maroon;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+section{
+    background-color: lightcoral;
+margin: auto 10%;
+padding: 30px;
+border-color: maroon;
+border-style: dotted;
+border-width: 5px;
+border-radius: 10px;
+}
+
+form{
+    background-color: firebrick;
+    color: beige;
+}
+
+h1{
+    font-size: 41px;
+}
+em{
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 80px;
+}
+
+.CSS{
+    color: beige;
+}
+
+.HTML{
+    color: pink;
+}
+
+fieldset{
+ border-style: dashed;
+border-width: 5px;
+border-radius: 10px;
+}
+
+button{
+color:maroon;
+border-width: 5px;
+font-weight: bold;
+border-color: maroon;
+font-size: 20px;
+font-color:beige;
+font-family: sans-serif;
+background-color: pink;
+padding: 8px;
+}
